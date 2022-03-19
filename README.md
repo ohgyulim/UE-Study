@@ -30,9 +30,9 @@
 
 
 ## :sunglasses: 스터디원
-+ 시환
++ 시환   :seedling:[레포](https://github.com/van1164):seedling:
 + 승찬
 + 상준
-+ 세헌
-+ 예원
-+ 규림   :rabbit:[레포](https://github.com/ohgyulim):rabbit:
++ 세헌   :seedling:[레포](https://github.com/ohbrent):seedling:
++ 예원   :seedling:[레포](https://github.com/Jangmanbo):seedling:
++ 규림   :seedling:[레포](https://github.com/ohgyulim):seedling:
