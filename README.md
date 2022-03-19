@@ -32,7 +32,7 @@
 ## :sunglasses: 스터디원
 + 시환   :seedling:[레포](https://github.com/van1164):seedling:
 + 승찬
-+ 상준
++ 상준   :seedling:[레포](https://github.com/sangjun12458):seedling:
 + 세헌   :seedling:[레포](https://github.com/ohbrent):seedling:
 + 예원   :seedling:[레포](https://github.com/Jangmanbo):seedling:
 + 규림   :seedling:[레포](https://github.com/ohgyulim):seedling:
