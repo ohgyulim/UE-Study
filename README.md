@@ -16,13 +16,13 @@
 ## :file_folder: 디렉토리
   ```README.md```
   
-  └───```Study_folder```
+  ```Study_folder```
   
-      └───```오규림(각자 이름)```
+  └───```오규림(각자 이름)```
       
-          └───```1주차.cpp```
+     └───```1주차.cpp```
           
-          └───```2주차.cpp```
+     └───```2주차.cpp```
  
  + 커밋 메세지 (강의 끝날때마다 commit)
  
@@ -30,9 +30,9 @@
 
 
 ## :sunglasses: 스터디원
-+ 시환
-+ 승찬
-+ 상준
-+ 세헌
-+ 예원
-+ 규림   :rabbit:[레포](https://github.com/ohgyulim):rabbit:
++ 시환   :seedling:[레포](https://github.com/van1164):seedling:
++ 승찬   :seedling:[레포](https://github.com/sschan99):seedling:
++ 상준   :seedling:[레포](https://github.com/sangjun12458):seedling:
++ 세헌   :seedling:[레포](https://github.com/ohbrent):seedling:
++ 예원   :seedling:[레포](https://github.com/Jangmanbo):seedling:
++ 규림   :seedling:[레포](https://github.com/ohgyulim):seedling:
