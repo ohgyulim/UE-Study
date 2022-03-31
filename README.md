@@ -34,5 +34,5 @@
 + 승찬   :seedling:[레포](https://github.com/sschan99):seedling:
 + 상준   :seedling:[레포](https://github.com/sangjun12458):seedling:
 + 세헌   :seedling:[레포](https://github.com/ohbrent):seedling:
-+ 예원   :seedling:[레포](https://github.com/Jangmanbo):seedling:
++ 예원   :seedling:[레포](https://github.com/Jangmanbo/Unreal-Study):seedling:
 + 규림   :seedling:[레포](https://github.com/ohgyulim):seedling:
