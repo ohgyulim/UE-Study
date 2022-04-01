@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include <Engine/Classes/Camera/CameraComponent.h>
 #include "FPSCharacter.generated.h"
 
 UCLASS()
@@ -31,5 +32,17 @@ public:
 
 	UFUNCTION()
 		void MoveRight(float AxisValue);
+
+	UFUNCTION()
+		void StartJump();
+
+	UFUNCTION()
+		void StopJump();
+
+	UPROPERTY(VisibleAnywhere)
+		UCameraComponent* FPSCameraComponent;
+	
+	UPROPERTY(VisibleDefaultsOnly, Category = "Mesh")
+		USkeletalMeshComponent* FPSMesh;
 
 };
