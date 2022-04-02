@@ -25,9 +25,15 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(VisibleDefaultOnly, Category = "Projectile")
+	UPROPERTY(VisibleDefaultsOnly, Category = "Projectile")
 		USphereComponent* CollisionComponent;
 
-	UPROPERTY(VisibleAnywhere, Catergory = "Movement")
+	UPROPERTY(VisibleAnywhere, Category = "Movement")
 		UProjectileMovementComponent* ProjectileMovementComponent;
+
+	void FireInDirection(const FVector& ShootDirection);
+
+	UFUNCTION()
+		void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
+
 };
