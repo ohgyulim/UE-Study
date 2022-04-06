@@ -1,0 +1,7 @@
+형 변환 방법
+- 언리얼 엔진에서는 레벨에 배치되는 모든 클래스가 AActor 클래스를 상속받고 있고, 개발자가 만들어내는 클래스 역시 상당수는 AActor 클래스를 상속받게 됨 -> 몇몇 함수들에서는 메인이 되는 부모 클래스를 매개변수로 받거나 돌려줌
+
+ex) Actor 클래스를 상속받아서 Projectile 클래스를 생성
+      Projectile에 맞는다고 가정할 MyActor 클래스 생성
+      NotifyActoringBeginOverlap 함수 생성 -> 함수 안에 Cast<AProjectile>(params) // <> 안에는 형변환 할 클래스
+      블루프린트에서도 노드를 사용해서 형변환 가능
